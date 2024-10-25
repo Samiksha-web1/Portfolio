@@ -1,0 +1,50 @@
+ul li{
+    list-style: none;
+    display: inline;
+    padding: 23px;
+}
+main{
+    /*display: flex;
+    justify-content: center;*/
+    position: absolute;
+    right:690px;
+    top:72px
+
+    
+}
+:root{
+    --primary: purple;
+    --secondary: white;
+}
+div p{
+    width: 29vw;
+}
+.Box{
+    background-color: var(--primary);
+    color: var(--secondary);
+    padding: 12px;
+    border: 1px solid purple;
+    border-radius: 12px;
+    }
+.box1{
+    color: var(--primary);
+    border: 1px solid purple;
+    padding: 12px;
+    border-radius: 12px;
+}
+div{
+    margin: 24px;
+    padding: 29px;
+}
+strong{
+    color: var(--primary);
+}
+li:first-child{
+    color: purple;
+    font-size: 24px;
+}
+
+
+
+
+
